@@ -1,0 +1,4 @@
+MLPakcer puede ser útil si quieres empaquetar una lista de correo ezmlm en una base de datos sqlite3.
+
+./mlpacker -h para obtener ayuda. 
+

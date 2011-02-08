@@ -1,0 +1,4 @@
+MLPacker maybe useful if you want to pack an ezmlm-mailing-list onto a sqlite3 database.
+
+./mlpacker -h for help.
+
